@@ -1,0 +1,2 @@
+echo Linking
+jlink --module-path /usr/lib/jvm/java-9-openjdk-amd64/jmods:./mods --add-modules app --output ./build/app_jre

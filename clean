@@ -1,0 +1,5 @@
+echo Cleaning
+rm -f ./mods/app.jar
+rm -fr ./build/classes/
+rm -fr ./build/app_jre/
+rm -fr ./build/app_opt_jre/
